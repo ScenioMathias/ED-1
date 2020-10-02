@@ -1,2 +1,2 @@
 # Estrutura de Dados
-## Alguns Exercicios de EDI
+## Alguns Exercicios de ED I
