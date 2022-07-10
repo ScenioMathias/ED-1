@@ -30,6 +30,8 @@ PILHA. Não precisa de ordem, apenas separar os pares e os ímpares.
 Lembre-se que no final os dados deverão estar na mesma PILHA inicial!
 E, mais importante, não faça ordenação dos valores dentro da pilha!_
 
+## _Código_
+
 ```shell
 #include <math.h>
 	#include <stdio.h>
